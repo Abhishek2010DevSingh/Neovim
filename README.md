@@ -28,4 +28,4 @@ Welcome to my custom Neovim setup! This configuration enhances productivity, rea
 Ensure you have Neovim (v0.7+) installed. Clone this configuration into your Neovim configuration directory:
 
 ```bash
-git clone https://github.com/Abhishek2010DevSingh.git ~/.config/nvim
+git clone https://github.com/Abhishek2010DevSingh/Neovim.git ~/.config/nvim
