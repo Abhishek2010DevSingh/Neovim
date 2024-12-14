@@ -26,5 +26,11 @@ return {
     },
     { "hrsh7th/cmp-nvim-lsp" },
     { "hrsh7th/nvim-cmp" },
+    {
+        "themaxmarchuk/tailwindcss-colors.nvim",
+        config = function()
+            require("tailwindcss-colors").setup()
+        end
+    },
     { "nvim-treesitter/nvim-treesitter" },
 }
